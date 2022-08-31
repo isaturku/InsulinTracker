@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007332449027",
+    "project_id": "insulintracker-8e407",
+    "storage_bucket": "insulintracker-8e407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007332449027:android:fce94ad9b88c2d0f4ae736",
+        "android_client_info": {
+          "package_name": "com.example.insulintracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007332449027-a7f15acfme26t42js8cd21al0a7a12hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjY3p6D601sjrOlF0M864u9Bfz7z9bEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007332449027-a7f15acfme26t42js8cd21al0a7a12hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

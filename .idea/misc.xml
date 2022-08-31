@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/drawable/barcode.xml" value="0.290625" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/drawable/custom_input.xml" value="0.290625" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/drawable/dblue_ripple.xml" value="0.290625" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.290625" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/drawable/ic_outline_delete_24.xml" value="0.196" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/activity_add_food.xml" value="0.264" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/activity_login2.xml" value="0.264" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/activity_search_food.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/add_food_activity.xml" value="0.264" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/food_addition_popup.xml" value="0.2" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/food_item.xml" value="0.2" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/fragment_activity.xml" value="0.536" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/fragment_diary.xml" value="0.2" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/fragment_info.xml" value="0.264" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/info_item.xml" value="0.4" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/layout/meal_item.xml" value="0.264" />
+        <entry key="..\:/Users/turku/OneDrive/Desktop/sebi/projekt_sew/app/src/main/res/menu/bot_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
